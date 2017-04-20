@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/student/Downloads/Blepad-Final-master/app/build/intermediates/res/merged/debug/drawable-hdpi/hongjia.png",
+        "source": "/Users/student/Downloads/Blepad-Final-master/app/src/main/res/drawable-hdpi/hongjia.png"
+    },
+    {
+        "merged": "/Users/student/Downloads/Blepad-Final-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/student/Downloads/Blepad-Final-master/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/student/Downloads/Blepad-Final-master/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/Users/student/Downloads/Blepad-Final-master/app/src/main/res/drawable-hdpi/icon.png"
+    }
+]
